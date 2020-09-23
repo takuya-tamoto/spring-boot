@@ -1,0 +1,4 @@
+CREATE TABLE members (
+    id int(8) AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
